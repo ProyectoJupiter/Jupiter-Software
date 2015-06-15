@@ -1,0 +1,31 @@
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+  <group>
+    <repositories>
+      <repository recommended="true">
+        <name>home:paolorotolo:numix</name>
+        <summary>Numix - Not just yet another theme suite</summary>
+        <description>Not just yet another theme suite.
+
+Numix is all about making a difference in theming. We aim to prove that &quot;difference&quot; and &quot;usability&quot; are two words combined, that can make sense. You get a modern and stylish desktop, spiced up with a pinch of warmth just enough to make you feel like laying in your favourite comfy armchair, with a beverage of your choice in hand.
+
+If you wanna have a taste of a cuppa something different or just long for theming your desktop in a jazzy way, Numix might just be the thing you need. :)</description>
+        <url>http://download.opensuse.org/repositories/home:/paolorotolo:/numix/openSUSE_13.1/</url>
+      </repository>
+      <repository recommended="false">
+        <name>openSUSE:13.1</name>
+        <summary>Official 13.1 openSUSE distribution</summary>
+        <description>This project builds the official 13.1 openSUSE distribution.
+
+Have a look at http://en.opensuse.org/Portal:13.1 for more details.</description>
+        <url>http://download.opensuse.org/repositories/openSUSE:/13.1/standard/</url>
+      </repository>
+    </repositories>
+    <software>
+      <item>
+        <name>numix-icon-theme-circle</name>
+        <summary>Numix-Circle icon theme</summary>
+        <description>Numix-Circle is an icon theme from the Numix project - http://numixproject.org.</description>
+      </item>
+    </software>
+  </group>
+</metapackage>
