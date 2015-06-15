@@ -1,23 +1,12 @@
-# Hazard
-¡Bienvenido al repositorio del proyecto Jackalope Hazard!
+# Editores de Video
 
-Hazard es el repositorio del Proyecto Jackalope destino a brindar al usuario final una lista de software (Libre y/o gratuito) para su uso e instalación de las versiónes de nuestro sistema operativo.
+¡Bienvenido a la sección de editores de vídeo de Hazard!
 
-La instalación de esta paquetería se puede hacer mediante:
+En esta sección encontraremos software destinado a la manipulacions de clips de video.
+Para descargar el paquete, ingresa a la carpeta correspondiente al software a necesitar, allí encontraras una breve descripción del paquete, detalles como su tamaño y funcionalidades, de igual manera encontrarás una carpeta que se llama "Paquete", allí esta el paquete para instalar el software.
 
-1. Descarga del paquete.
+# ¿Como se instala?
 
-YaST2 y Zypper iniciaran la instalación del paquete.
-
-2. Instalación mediante repositorios.
-
-Si lo desea y si el paquete esta disponible en los repositorios del sistema (PackMan, OpenSUSE) o nuestro propio repositorío (Jackalope1), el usuario puede realizar la instalación mediante el centro de software Apper o desde el gestor de paquetería YaST2.
-
-3. Instalación manual.
-
-Mediante la linea de comandos (Usando el emulador de terminal KConsole) y haciendo uso de Zypper. (Esta opción es solo para conocedores)
-
-Estaremos actualziando nuestra paquetería, en nuestra página estaremos publicando los avances.
-
+Una vez descargado, si te encuentras desde el sistema operativo Jackalope System, solo da doble click sobre el paquete, YaST2 iniciaraá la instalación.
 
 ¡Feliz Blogueo!
