@@ -5,15 +5,15 @@ Hazard es el repositorio del Proyecto Jackalope destino a brindar al usuario fin
 
 La instalación de esta paquetería se puede hacer mediante:
 
-1. Descarga del paquete.
+A. Descarga del paquete.
 
 YaST2 y Zypper iniciaran la instalación del paquete.
 
-2. Instalación mediante repositorios.
+B. Instalación mediante repositorios.
 
 Si lo desea y si el paquete esta disponible en los repositorios del sistema (PackMan, OpenSUSE) o nuestro propio repositorío (Jackalope1), el usuario puede realizar la instalación mediante el centro de software Apper o desde el gestor de paquetería YaST2.
 
-3. Instalación manual.
+C. Instalación manual.
 
 Mediante la linea de comandos (Usando el emulador de terminal KConsole) y haciendo uso de Zypper. (Esta opción es solo para conocedores)
 
