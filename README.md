@@ -1,7 +1,7 @@
 # Hazard
-¡Bienvenido al repositorio del proyecto Jackalope Hazard!
+¡Bienvenido al repositorio del proyecto Juggernaut SoftCenter!
 
-Hazard es el repositorio del Proyecto Jackalope destino a brindar al usuario final una lista de software (Libre y/o gratuito) para su uso e instalación de las versiónes de nuestro sistema operativo.
+Hazard es el repositorio del Proyecto Juggernaut destino a brindar al usuario final una lista de software (Libre y/o gratuito) para su uso e instalación de las versiónes de nuestro sistema operativo.
 
 La instalación de esta paquetería se puede hacer mediante:
 
@@ -20,4 +20,4 @@ Mediante la linea de comandos (Usando el emulador de terminal KConsole) y hacien
 Estaremos actualziando nuestra paquetería, en nuestra página estaremos publicando los avances.
 
 
-#¡Feliz Blogueo!
+#¡Buen Día!
