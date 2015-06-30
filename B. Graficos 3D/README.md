@@ -1,6 +1,6 @@
-﻿# Blender
+﻿# Graficos 3D
 
-Blender es catalogado como uno de los programas mas ideales a la hora de modelar. Su facilidad de uso, paneles de herramientas y trabajo por capas lo ponen en una posición bastante alta.
+Software dedicado al modela en 3D.
 
 #Descarga e instalación
 
