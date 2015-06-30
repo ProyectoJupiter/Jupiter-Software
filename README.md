@@ -1,7 +1,7 @@
 # SoftCenter
 ¡Bienvenido al repositorio del proyecto Juggernaut SoftCenter!
 
-Hazard es el repositorio del Proyecto Juggernaut destino a brindar al usuario final una lista de software (Libre y/o gratuito) para su uso e instalación de las versiónes de nuestro sistema operativo.
+Softcenter es el repositorio del Proyecto Juggernaut destino a brindar al usuario final una lista de software (Libre y/o gratuito) para su uso e instalación de las versiónes de nuestro sistema operativo.
 
 La instalación de esta paquetería se puede hacer mediante:
 
