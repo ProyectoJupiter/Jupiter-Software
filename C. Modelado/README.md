@@ -1,10 +1,10 @@
-﻿# Titulo 1
+﻿# Modelado
 
-¡Bienvenido a la sección     de Hazard!
+Modela de graficos (Incluido 3D).
 
-Texto 1
+#¿Como se instala?
 
-#Titulo 2
-
+Una vez descargado, si te encuentras desde el sistema operativo Jackalope System, solo da doble click sobre el paquete, YaST2 iniciaraá la instalación.
 
 ¡Feliz Blogueo!
+
