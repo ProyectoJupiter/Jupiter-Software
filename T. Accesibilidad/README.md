@@ -1,10 +1,10 @@
-﻿# Titulo 1
+﻿# Accesibilidad
 
-¡Bienvenido a la sección     de Hazard!
+Mejora el uso de nuestro sistema con herramientas para facilitar el uso del mismo.
 
-Texto 1
+#¿Como se instala?
 
-#Titulo 2
-
+Una vez descargado, si te encuentras desde el sistema operativo Jackalope System, solo da doble click sobre el paquete, YaST2 iniciaraá la instalación.
 
 ¡Feliz Blogueo!
+
