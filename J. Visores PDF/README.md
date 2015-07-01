@@ -1,10 +1,13 @@
-﻿# Titulo 1
+﻿# Visores PDF
 
-¡Bienvenido a la sección     de Hazard!
+Disfruta de software dedicado a la manipulación de archivos en formato PDF.
+Desde visores hasta editores.
 
 Texto 1
 
-#Titulo 2
+#¿Como se instala?
 
+Una vez descargado, si te encuentras desde el sistema operativo Jackalope System, solo da doble click sobre el paquete, YaST2 iniciaraá la instalación.
 
 ¡Feliz Blogueo!
+
