@@ -1,10 +1,11 @@
-﻿# Titulo 1
+﻿# Ciencia y tecnología
 
-¡Bienvenido a la sección     de Hazard!
+Software dedicado a la educación, exploración, etc.
+Paquetería repleta de información para la consulta, con herramientas interactivas o funciones bastante interesantes.
 
-Texto 1
+#¿Como se instala?
 
-#Titulo 2
-
+Una vez descargado, si te encuentras desde el sistema operativo Jackalope System, solo da doble click sobre el paquete, YaST2 iniciaraá la instalación.
 
 ¡Feliz Blogueo!
+
