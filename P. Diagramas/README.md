@@ -1,10 +1,11 @@
-﻿# Titulo 1
+﻿# Diagramas
 
-¡Bienvenido a la sección     de Hazard!
+El dibujo es un buen ayudante.
+Software dedicado a la manipulación o creación de diagramas.
 
-Texto 1
+#¿Como se instala?
 
-#Titulo 2
-
+Una vez descargado, si te encuentras desde el sistema operativo Jackalope System, solo da doble click sobre el paquete, YaST2 iniciaraá la instalación.
 
 ¡Feliz Blogueo!
+
