@@ -1,10 +1,10 @@
-﻿# Titulo 1
+﻿# Creación de imágenes y edición
 
-¡Bienvenido a la sección     de Hazard!
+El software de manipulación de imagenes también esta presente aquí.
 
-Texto 1
+#¿Como se instala?
 
-#Titulo 2
-
+Una vez descargado, si te encuentras desde el sistema operativo Jackalope System, solo da doble click sobre el paquete, YaST2 iniciaraá la instalación.
 
 ¡Feliz Blogueo!
+
