@@ -1,10 +1,10 @@
-﻿# Titulo 1
+﻿# Herramientas y utilidades
 
-¡Bienvenido a la sección     de Hazard!
+Software extra, complementos para el sistema que nunca deben de faltar.
 
-Texto 1
+#¿Como se instala?
 
-#Titulo 2
-
+Una vez descargado, si te encuentras desde el sistema operativo Jackalope System, solo da doble click sobre el paquete, YaST2 iniciaraá la instalación.
 
 ¡Feliz Blogueo!
+
